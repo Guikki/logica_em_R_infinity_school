@@ -5,3 +5,4 @@ av2<-scan()
 
 media<-(av1+av2)/2
 print(media)
+print(paste("a nota média foi igual a:",media))
