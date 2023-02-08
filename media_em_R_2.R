@@ -1,3 +1,4 @@
+#Uma aprimoração do código anterior, que não exige 2 enters e a linguagem chega mais limpa ao usuário
 print(' faça o input da 1a nota ')
 #av1<-scan()
 av1<-as.numeric(readline(prompt="Insira a primeira nota: "))
